@@ -66,7 +66,8 @@ export BLUE_DATABASE_PASSWORD=your-password
 export FLASK_APP=blue.py    
 flask run --host=0.0.0.0  
 ```
-<hr>
+<hr>  
+  
 ## Credits
 
 Daley Bee - https://twitter.com/daley  
