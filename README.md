@@ -50,7 +50,7 @@ flask run --host=0.0.0.0
 
 ```pip install -r requirements.txt```
 
-#### Setup your PostgrelSQL database
+#### Setup your PostgreSQL database
 ```
 sudo apt-get update  
 sudo apt-get install -y postgresql libpq-dev  
