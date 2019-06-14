@@ -23,6 +23,13 @@ Blue has been designed for use against targets you are AUTHORIZED to test agains
 
 To use email harvesting, you must add your Hunter.io API key in `/app/home/routes.py` on line 179.
 
+**If python -V return python2.X:**
+```
+apt install python3-venv
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ## Setup (with SQLite database)
 
 #### Clone this repository:
