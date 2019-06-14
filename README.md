@@ -26,7 +26,7 @@ Blue has been designed for use against targets you are AUTHORIZED to test agains
 
 #### Clone this repository:
 
-```git clone https://github.com/0days/cool_recon_thing.git```  
+```git clone https://github.com/0days/Blue```  
 
 #### Install requirements:  
 
@@ -43,7 +43,7 @@ flask run --host=0.0.0.0
 
 #### Clone this repository:
 
-```git clone https://github.com/0days/cool_recon_thing.git```  
+```git clone https://github.com/0days/Blue```  
 
 #### Install requirements:  
 
